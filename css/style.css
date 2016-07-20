@@ -1,0 +1,19 @@
+.container{
+    margin-top: 40px;
+}
+
+body{
+    background-color: #EFEFEF;
+    font-family: 'EB Garamond', serif;
+    font-size: medium;
+}
+
+#dp{
+    -webkit-filter: brightness(75%);
+    filter: brightness(80%);
+    width: 100%;
+}
+
+i{
+    padding-top: 10px;
+}
