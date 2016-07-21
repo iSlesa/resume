@@ -27,6 +27,32 @@ body{
     margin-top: 20px;
 }
 
+.card-title{
+    padding-top: 50px;
+}
 .card-title+p{
     padding-top: 20px;
+}
+
+.progress{
+    overflow: visible;
+}
+.progress .determinate{
+    background-color: white;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+
+.progress .determinate .fa{
+    font-size: 10;
+    position: absolute;
+    top: -6px;
+    right: 0px;
+    margin-left: 50%;
+}
+
+#Prof{
+    font-size: 25px;
+    padding-bottom: 20px;
 }
