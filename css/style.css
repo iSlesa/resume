@@ -9,8 +9,6 @@ body{
 }
 
 #dp{
-    -webkit-filter: brightness(75%);
-    filter: brightness(80%);
     width: 100%;
 }
 
@@ -31,7 +29,7 @@ body{
     padding-top: 50px;
 }
 .card-title+p{
-    padding-top: 20px;
+    padding-top: 15px;
 }
 
 .progress{
@@ -55,4 +53,14 @@ body{
 #Prof{
     font-size: 25px;
     padding-bottom: 20px;
+}
+
+.designation{
+    font-size: 12px;
+}
+
+#profile{
+    background-color: rgba(0,0,0,0.5);
+    background-size: contain;
+    width: 100%;
 }
